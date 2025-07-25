@@ -57,3 +57,10 @@ This project was built as a final evaluation for the **Database Systems** course
 - Admin interface for university staff and alumni
 - Backend migration to PostgreSQL
 - Deployment as a hosted web app via Streamlit Cloud or Heroku
+
+## Copyright & Usage
+
+This project and its concept are original work by **Arfa Riaz**.  
+Please do not copy, redistribute, or adapt without explicit permission.  
+For educational use only.
+
